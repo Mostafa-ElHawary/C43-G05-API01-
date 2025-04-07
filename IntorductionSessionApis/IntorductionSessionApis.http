@@ -1,0 +1,6 @@
+@IntorductionSessionApis_HostAddress = http://localhost:5292
+
+GET {{IntorductionSessionApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
